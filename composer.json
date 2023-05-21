@@ -1,7 +1,7 @@
 {
   "name": "dayonyz/laravel-redis-stream",
   "description": "Laravel redis stream",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "version": "1.0.1",
   "keywords": [
