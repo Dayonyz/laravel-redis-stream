@@ -1,5 +1,5 @@
 {
-  "name": "dayonyz/laravel-redis-stream",
+  "name": "Dayonyz/laravel-redis-stream",
   "description": "Laravel redis stream",
   "minimum-stability": "dev",
   "license": "MIT",
